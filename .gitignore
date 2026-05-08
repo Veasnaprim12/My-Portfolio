@@ -55,5 +55,14 @@ coverage/
 # Optional npm cache
 .npm
 
+# Image files
+*.png
+*.jpg
+*.jpeg
+*.gif
+*.webp
+*.svg
+*.ico
+
 # Lock files (uncomment if using lockfile)
 # package-lock.json
