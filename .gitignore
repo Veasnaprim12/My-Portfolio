@@ -1,0 +1,59 @@
+# Dependencies
+node_modules/
+npm-debug.log
+yarn-error.log
+package-lock.json
+yarn.lock
+
+# Environment files
+.env
+.env.local
+.env.*.local
+
+# IDE & Editor
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+*.sublime-project
+*.sublime-workspace
+
+# OS files
+.DS_Store
+Thumbs.db
+.Thumbs.db
+
+# Build artifacts
+dist/
+build/
+.next/
+out/
+
+# IDE settings
+*.log
+*.pot
+*.mo
+
+# Temporary files
+*.tmp
+*.temp
+.cache/
+
+# System files
+.project
+.classpath
+.c9/
+*.launch
+.settings/
+*.sublime-workspace
+
+# Testing
+coverage/
+.nyc_output/
+
+# Optional npm cache
+.npm
+
+# Lock files (uncomment if using lockfile)
+# package-lock.json
